@@ -1,0 +1,944 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SwiperItem > card mode disposeIndex > currentIndex=0 last item gets disposeIndex -1 1`] = `
+<div
+  class="t-swiper"
+>
+  <div
+    class="t-swiper__wrap t-swiper--inside"
+  >
+    <div
+      class="t-swiper__content t-swiper-card"
+    >
+      <div
+        class="t-swiper__container"
+        style="height: 0px;"
+      >
+        
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          2
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          3
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          4
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    <ul
+      class="t-swiper__navigation t-swiper__navigation-bars"
+    >
+      
+      <li
+        class="t-swiper__navigation-item t-is-active"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      
+    </ul>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`SwiperItem > card mode disposeIndex > currentIndex=last first item gets disposeIndex=swiperItemLength 1`] = `
+<div
+  class="t-swiper"
+>
+  <div
+    class="t-swiper__wrap t-swiper--inside"
+  >
+    <div
+      class="t-swiper__content t-swiper-card"
+    >
+      <div
+        class="t-swiper__container"
+        style="height: 0px;"
+      >
+        
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          2
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          3
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          4
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    <ul
+      class="t-swiper__navigation t-swiper__navigation-bars"
+    >
+      
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item t-is-active"
+      >
+        <span />
+      </li>
+      
+    </ul>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`SwiperItem > card mode disposeIndex > item far ahead of currentIndex gets disposeIndex -2 1`] = `
+<div
+  class="t-swiper"
+>
+  <div
+    class="t-swiper__wrap t-swiper--inside"
+  >
+    <div
+      class="t-swiper__content t-swiper-card"
+    >
+      <div
+        class="t-swiper__container"
+        style="height: 0px;"
+      >
+        
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          2
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          3
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          4
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    <ul
+      class="t-swiper__navigation t-swiper__navigation-bars"
+    >
+      
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item t-is-active"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      
+    </ul>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`SwiperItem > card mode disposeIndex > item far behind currentIndex gets disposeIndex=swiperItemLength+1 1`] = `
+<div
+  class="t-swiper"
+>
+  <div
+    class="t-swiper__wrap t-swiper--inside"
+  >
+    <div
+      class="t-swiper__content t-swiper-card"
+    >
+      <div
+        class="t-swiper__container"
+        style="height: 0px;"
+      >
+        
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          2
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          3
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          4
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    <ul
+      class="t-swiper__navigation t-swiper__navigation-bars"
+    >
+      
+      <li
+        class="t-swiper__navigation-item t-is-active"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      
+    </ul>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`SwiperItem > card mode translateX > out-of-stage item after currentIndex 1`] = `
+<div
+  class="t-swiper"
+>
+  <div
+    class="t-swiper__wrap t-swiper--inside"
+  >
+    <div
+      class="t-swiper__content t-swiper-card"
+    >
+      <div
+        class="t-swiper__container"
+        style="height: 0px;"
+      >
+        
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          2
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          3
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          4
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    <ul
+      class="t-swiper__navigation t-swiper__navigation-bars"
+    >
+      
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item t-is-active"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      
+    </ul>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`SwiperItem > card mode translateX > out-of-stage item before currentIndex 1`] = `
+<div
+  class="t-swiper"
+>
+  <div
+    class="t-swiper__wrap t-swiper--inside"
+  >
+    <div
+      class="t-swiper__content t-swiper-card"
+    >
+      <div
+        class="t-swiper__container"
+        style="height: 0px;"
+      >
+        
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          2
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          3
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          4
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    <ul
+      class="t-swiper__navigation t-swiper__navigation-bars"
+    >
+      
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item t-is-active"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      
+    </ul>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`SwiperItem > card mode zIndex > out-of-stage item has zIndex 0 1`] = `
+<div
+  class="t-swiper"
+>
+  <div
+    class="t-swiper__wrap t-swiper--inside"
+  >
+    <div
+      class="t-swiper__content t-swiper-card"
+    >
+      <div
+        class="t-swiper__container"
+        style="height: 0px;"
+      >
+        
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          1
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          2
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          3
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 0;"
+        >
+          
+          
+          4
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card"
+          style="transform: translateX(0px) scale(0.6325301204819277); transition: transform 0.3s ease; z-index: 1;"
+        >
+          
+          
+          5
+          
+          
+        </div>
+        <div
+          class="t-swiper__container__item t-swiper__card t-is-active"
+          style="transform: translateX(0px) scale(1); transition: transform 0.3s ease; z-index: 2;"
+        >
+          
+          
+          0
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    <ul
+      class="t-swiper__navigation t-swiper__navigation-bars"
+    >
+      
+      <li
+        class="t-swiper__navigation-item t-is-active"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      <li
+        class="t-swiper__navigation-item"
+      >
+        <span />
+      </li>
+      
+    </ul>
+    <!---->
+  </div>
+</div>
+`;
